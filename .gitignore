@@ -1,0 +1,5 @@
+.kilo
+.vscode
+
+# Docx report generator (npm install in docs/docx-generator)
+docs/docx-generator/node_modules/
