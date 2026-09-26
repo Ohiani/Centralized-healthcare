@@ -182,7 +182,7 @@ const DEMO_PATIENTS = [{
   ]
 },
 {
-  // Registered by phone number only (no NIN), as the system allows
+  nin: '56789012345',
   phoneNumber: '+2348099001122',
   email: 'zainab.musa@example.com',
   firstName: 'Zainab',
